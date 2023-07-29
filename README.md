@@ -1,6 +1,6 @@
-# Christina-7b - AI Language Model
+# Christina-7b
 
-Christina-7b is an AI language model inspired by the character Kurisu from the popular "Steins;Gate" games. This language model has been meticulously trained on 30,032 interactions involving Kurisu to replicate the persona of the AI 'Amadeus' from "Steins;Gate 0". 
+Christina-7b is a chatbot inspired by the character Kurisu from the popular "Steins;Gate" games. This chatbot is the result of Llama 2 7b chat being trained on 30,032 interactions involving Kurisu to replicate the persona of the AI 'Amadeus' from "Steins;Gate 0". 
 
 ![Christina-7b](https://github.com/Loke-60000/Christina-7B/assets/104599813/1386ab7f-6bef-4ee0-b7fb-d286555b77e8)
 
