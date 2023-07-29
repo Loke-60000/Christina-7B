@@ -4,6 +4,9 @@ Christina-7b is a chatbot inspired by the character Kurisu from the popular "Ste
 
 ![Christina-7b](https://github.com/Loke-60000/Christina-7B/assets/104599813/1386ab7f-6bef-4ee0-b7fb-d286555b77e8)
 
+![image](https://github.com/Loke-60000/Christina-7B/assets/104599813/5e1d6aec-c203-49ba-84b4-1507e66efa69)
+
+
 ## Access Information
 
 As of the current status, Christina-7b is available for private access only. We appreciate your understanding and interest in our project. 🤖📚
