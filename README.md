@@ -12,7 +12,8 @@ As of the current status, Christina-7b is available for private access only. We 
 
 Here's a glimpse of the dataset that has contributed to the training of Christina-7b:
 
-![Dataset Sample](https://github.com/Loke-60000/Christina-7B/assets/104599813/3048fd11-a5d9-4ae4-8f9d-ebb49bdb96f7)
+<img width="745" alt="image" src="https://github.com/Loke-60000/Christina-7B/assets/104599813/f8dd7d19-53a7-4187-b5c1-91b639b1c2d2">
+
 
 ## Current Amadeus uses GPT 3.5
 
