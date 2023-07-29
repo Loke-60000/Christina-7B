@@ -23,4 +23,4 @@ Check out this video:
 
 ## Contact
 
-For any inquiries or potential collaborations, please feel free to reach out to us at lokman@viktorchondria.com. We are always excited to explore new possibilities and welcome your feedback.
+For any inquiries or potential collaborations, please feel free to reach out to us at lokman@viktorchondria.com .
