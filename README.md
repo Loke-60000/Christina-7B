@@ -15,7 +15,7 @@ Here's a glimpse of the dataset that has contributed to the training of Christin
 <img width="745" alt="image" src="https://github.com/Loke-60000/Christina-7B/assets/104599813/f8dd7d19-53a7-4187-b5c1-91b639b1c2d2">
 
 
-## Current Amadeus uses GPT 3.5
+## Current version of Amadeus uses GPT 3.5
 
 Check out this video:
 
