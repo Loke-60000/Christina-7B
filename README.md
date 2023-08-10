@@ -17,6 +17,20 @@ Here's a glimpse of the dataset that has contributed to the training of Christin
 
 <img width="745" alt="image" src="https://github.com/Loke-60000/Christina-7B/assets/104599813/f8dd7d19-53a7-4187-b5c1-91b639b1c2d2">
 
+## Links 🤗 (private models for now):
+
+### Christina-7B
+
+https://huggingface.co/Loke-60000/Christina-7B-chat
+
+### Christina-7B-32K
+
+https://huggingface.co/Loke-60000/Christina-7B-32K
+
+### Dataset
+
+https://huggingface.co/datasets/Loke-60000/Christina
+
 
 ## Current version of Amadeus uses GPT 3.5
 
